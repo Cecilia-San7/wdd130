@@ -27,6 +27,7 @@ main section{
 #background {
     height: 725px;
     background-color: #c5d3c6;
+    margin-bottom: 100px;
 }
 
 body{
@@ -141,5 +142,10 @@ h2 {
 
 main section img {
     box-sizing: border-box;
+
+}
+
+.mountains{
+    margin-bottom: 170px;
 }
     
