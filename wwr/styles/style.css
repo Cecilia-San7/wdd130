@@ -246,6 +246,13 @@ nav{
     box-shadow: 5px 5px 10px #6f7364;
 }
 
+    /* PAGE 2  */
+#content2{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
